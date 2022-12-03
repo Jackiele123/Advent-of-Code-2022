@@ -7,6 +7,10 @@
         "iosfwd": "cpp",
         "xiosbase": "cpp",
         "xlocale": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "xtree": "cpp",
+        "fstream": "cpp"
     }
 }
